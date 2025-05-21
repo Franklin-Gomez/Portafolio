@@ -7,7 +7,7 @@ export default function Aboutmy() {
             
             <div className="px-12">
                 <p className="mb-2 text-xl">
-                    Me llamo <span className="font-bold"> Franklin David Gomez Garcia. </span>  soy ingeniero mecatronico gradudado del 2013. siempre me ha apasionado
+                    Me llamo <span className="font-bold"> Franklin David Gomez Garcia. </span>  soy ingeniero mecatronico gradudado del 2023. siempre me ha apasionado
                     la tecnologia  despues temprana edad con los videojuegos.
                 </p>
 
