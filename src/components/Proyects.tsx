@@ -44,7 +44,7 @@ export default function Proyects() {
 
                 <div className="border rounded-xl border-black flex flex-col max-w-xs  bg-white shadow-2xl shadow-black h-[430px] overflow-hidden">
                     
-                    <a  href="https://bienes-raices-mern-front.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    <a  href="https://bienes-raices-mern.vercel.app/" target="_blank" rel="noopener noreferrer">
                         <img src="/img/BienesRaices.png" className="rounded-t-xl w-full h-[149px]"/>
                         <div className="flex flex-col gap-5 px-5 mb-5">
                             <p className="text-lg max-h-[300px] overflow-y-auto block mt-4">
