@@ -66,7 +66,7 @@ export default function Introduction() {
                     target="_blank"
                     className="flex items-center gap-2 rounded-xl border border-black/30 px-5 py-2 hover:bg-black hover:text-white transition shadow-black/30 shadow"                >
                     <FaLinkedin />
-                    LinkedIn
+                    LinkedInd
                 </a>
 
                 <a 
