@@ -1,4 +1,3 @@
-import { FaPhp } from "react-icons/fa6";
 import { FaCode } from "react-icons/fa6";
 import { FaReact } from "react-icons/fa";
 import { RiNextjsLine } from "react-icons/ri";
@@ -6,6 +5,8 @@ import { SiExpress } from "react-icons/si";
 import { AiFillApi } from "react-icons/ai";
 import { JSX } from "react";
 import { SiTypescript } from "react-icons/si";
+import { SiFirebase } from "react-icons/si";
+
 
 type Tech = { name: string; icon: JSX.Element };
 type Project = {
@@ -50,13 +51,13 @@ const projects: Project[] = [
         id: "MangaApp",
         title: "Manga App",
         href: "https://manga-app-kappa.vercel.app/",
-        img: "/img/MangaApp.jpg",
+        img: "/img/MangaApp.png",
         alt: "Vista de la aplicación de manga",
         description:
             "Aplicación web de manga para explorar títulos y leer capítulos de forma rápida, simple y organizada.",
         tech: [
             { name: "TypeScript", icon: <SiTypescript size={20} /> },
-            { name: "DiFirebase", icon: <FaPhp size={20} /> },
+            { name: "DiFirebase", icon: <SiFirebase size={20} /> },
             { name: "Express", icon: <SiExpress size={20} /> },
 
         ],
