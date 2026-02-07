@@ -1,4 +1,3 @@
-import { IoLogoJavascript } from "react-icons/io5";
 import { FaPhp } from "react-icons/fa6";
 import { FaCode } from "react-icons/fa6";
 import { FaReact } from "react-icons/fa";
